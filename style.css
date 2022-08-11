@@ -1,0 +1,68 @@
+
+body {
+    background-color: white;
+    padding: 1%;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  h4 {
+    margin-top: -1em;
+  }
+  
+  main {
+    background-color: #D3D3D3;
+    border-radius: 1%;
+    padding: 1px;
+  }
+  
+  #img-div {
+    background-color: white;
+    padding: 1em;
+    margin: auto 2%;
+    border-radius: 1%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    border: 1px solid black;
+  }
+  
+  #img-caption {
+    text-align: center;
+    margin-top: -1px;
+    margin: 1%
+  }
+  
+  .info-link {
+    text-align: center;
+    margin-top: 2em;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  #tribute-info {
+    margin-top: 1.5em;
+  }
+  
+  .timeline {
+    margin: 0.5em 0px;
+  }
+  
+  .tribute-quote {
+    text-align: center;
+    margin-top: 3em;
+  }
+  
+  .quote {
+    font-style: italic;
+    margin-bottom: -0.5em;
+  }
